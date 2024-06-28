@@ -42,7 +42,8 @@ File:
 The first step of utilizing this repo is performing a git clone of the repository.
 
 ```
-git clone https://github.com/aws-samples/genai-quickstart-pocs.git
+git clone https://github.com/vanhoangkha/aws-translation-app.git
+cd aws-translation-app
 ```
 
 After cloning the repo onto your local machine, open it up in your favorite code editor.The file structure of this repo is broken into 5 key files,
